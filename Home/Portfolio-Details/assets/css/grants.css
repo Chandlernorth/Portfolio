@@ -17,8 +17,8 @@ li {
 }
 
 li:hover {
-  color: #FD6500;
-  text-decoration: none;
+  color: #0B4778;
+  text-decoration: underline;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -87,7 +87,7 @@ p {
 }
 
 #header.header-scrolled {
-  background: #F9EFD0;
+  background: #0059A2;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -102,7 +102,7 @@ p {
 
 #header .logo img {
   margin: 0;
-  max-height: 50px;
+  max-height: 70px;
 }
 
 /*--------------------------------------------------------------
@@ -149,7 +149,7 @@ p {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #FD6500;
+  color: #E3EEF1;
 }
 
 .navbar .getstarted,
@@ -165,7 +165,7 @@ p {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  background: #748ec6;
+  background: #0B4778;
   color: #fff;
 }
 
@@ -1072,7 +1072,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #F9EFD0;
+  background: #0059A2;
   padding: 20px;
   color: #47536e;
   font-size: 18px;
@@ -1091,10 +1091,10 @@ section {
 }
 .footer-ul a {
   text-decoration: none;
-  color: #0D22D8;
+  color: #E3EEF1;
 }
 .footer-ul a:hover{
-  color: #FD6500;
+    text-decoration: underline;
 }
 
 
